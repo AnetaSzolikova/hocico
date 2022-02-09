@@ -3,3 +3,5 @@ ahoj!
 zmena v ramci vetvy
 
 dalsia zmena
+
+zase nieco
